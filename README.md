@@ -8,6 +8,8 @@ A 20-second animation of a real-world teacup created using photogrammetry with P
 
 School project for CSC 322 - Introduction to Computer Graphics
 
+![Literature Review](LiteratureReviewTeacupAnimation.pdf)
+
 # Concepts
 - Photogrammetry techniques
 - Creating a mesh using PolyCam
@@ -17,3 +19,4 @@ School project for CSC 322 - Introduction to Computer Graphics
 # Files
 - Full Blender project file - avaiable here: https://drive.google.com/file/d/1Ae5MKPnyp97rYh0W4NGTTeyZ5VieVEzs/view?usp=drive_link
 - ![Animation](CSC322finalAnimationGitHub.mp4) - final redered animation
+- ![Literature Review](LiteratureReviewTeacupAnimation.pdf) - Literature Review
